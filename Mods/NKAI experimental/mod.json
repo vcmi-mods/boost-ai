@@ -1,0 +1,11 @@
+{
+	"name" : "NKAI experimental",
+	"description" : "This option changes the way Nullkiller AI calculates paths making it faster but this functionality has not been tested well yet. Should improve speed on big maps.",
+	"version" : "1.0",
+	"author" : "nullkiller",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"contact" : "http://forum.vcmi.eu/index.php",
+	"modType" : "AI",
+	"keepDisabled" : true
+}

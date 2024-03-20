@@ -1,0 +1,348 @@
+//Configured difficulty
+{
+	"ai":
+	{
+		"pawn":
+		{
+			"resources": { "wood" : 8, "mercury": 1, "ore": 8, "sulfur": 1, "crystal": 1, "gems": 1, "gold": 16000, "mithril": 0 },
+			"globalBonuses":
+			[
+				{
+					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
+					"val" : 24,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 12,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 800,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+								{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.wood",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.ore",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.mercury",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.crystal",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gems",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.sulfur",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+
+			],
+		},
+	"knight":
+		{
+			"resources": { "wood" : 10, "mercury": 1, "ore": 10, "sulfur": 1, "crystal": 1, "gems": 1, "gold": 20000, "mithril": 0 },
+			"globalBonuses":
+			[
+				{
+					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
+					"val" : 30,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 15,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 1000,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.wood",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.ore",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.mercury",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.crystal",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gems",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.sulfur",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+			],
+		},
+		"rook":
+		{
+			"resources": { "wood" : 13, "mercury": 1, "ore": 13, "sulfur": 1, "crystal": 1, "gems": 1, "gold": 26000, "mithril": 0 },
+			"globalBonuses":
+			[
+				{
+					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
+					"val" : 39,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 20,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 1300,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.wood",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.ore",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.mercury",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.crystal",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gems",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.sulfur",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+			],
+		},
+		"queen":
+		{
+			"resources": { "wood" : 16, "mercury": 1, "ore": 16, "sulfur": 1, "crystal": 1, "gems": 1, "gold": 32000, "mithril": 0 },
+			"globalBonuses":
+			[
+				{
+					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
+					"val" : 48,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 25,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 1600,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+								{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.wood",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.ore",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.mercury",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.crystal",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gems",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.sulfur",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+			],
+		},
+		"king":
+		{
+			"resources": { "wood" : 20, "mercury": 2, "ore": 20, "sulfur": 2, "crystal": 2, "gems": 2, "gold": 40000, "mithril": 0 },
+			"globalBonuses":
+			[
+				{
+					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
+					"val" : 60,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 30,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 2000,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+								{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.wood",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.ore",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.mercury",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.crystal",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gems",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.sulfur",
+					"val" : 1,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+			],
+		}
+	}
+}
+
