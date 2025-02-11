@@ -1,7 +1,7 @@
 {
 	"name" : "Boost AI",
 	"description" : "Rebalances difficulty system, giving AI more advantages. Amount of these advantages depends on chosen difficulty level. Provides few options for boosting, you can control them by enabling/disabling submods.",
-	"version" : "0.8",
+	"version" : "0.9",
 	"author" : "Nordsoft, val-gaav, Dydzio",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -13,6 +13,7 @@
 	},
 	"changelog" :
 	{
+		"0.9"  : [ "Fix leftover creature growth boost on last difficulty" ],
 		"0.8"  : [ "Bump up boosts for fighting against neutral armies" ],
 		"0.7"  : [ "Remove obsolete submods (NKAI Experimental, map hero limits), remove creature growth boost - too unfair for this mod and may interfere with AI economy" ],
 		"0.6"  : [ "Chinese translation by rapsedwind" ],
@@ -29,6 +30,6 @@
 	},
 	"polish" : {
 		"name" : "Utrudnione AI",
-		"description" : "Rebalans poziomów trudności, dający AI dodatkowe premie. Wielkość premi jest uzależniona od wybranego poziomu trudności. Udostępnia kilka opcji utrudniania, możesz je kontrolować włączając/wyłączając submody"
+		"description" : "Rebalans poziomów trudności, dający AI dodatkowe premie. Wielkość premii jest uzależniona od wybranego poziomu trudności. Udostępnia kilka opcji utrudniania, możesz je kontrolować włączając/wyłączając submody"
 	}
 }

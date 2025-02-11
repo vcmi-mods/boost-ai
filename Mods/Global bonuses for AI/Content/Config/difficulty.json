@@ -89,12 +89,6 @@
 					"sourceType" : "OTHER"
 				},
 				{
-					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 30,
-					"duration" : "PERMANENT",
-					"sourceType" : "OTHER"
-				},
-				{
 					"type" : "GENERATE_RESOURCE",
 					"subtype" : "resource.gold",
 					"val" : 500,
