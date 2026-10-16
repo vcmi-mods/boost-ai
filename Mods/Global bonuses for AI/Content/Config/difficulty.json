@@ -1,11 +1,8 @@
 //Configured difficulty
 {
-	"ai":
-	{
-		"pawn":
-		{
-			"globalBonuses": 
-			[
+	"ai" : {
+		"pawn" : {
+			"globalBonuses" : [
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
 					"val" : 24,
@@ -18,13 +15,11 @@
 					"val" : 185,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				},
-			],
+				}
+			]
 		},
-		"knight":
-		{
-			"globalBonuses":
-			[
+		"knight" : {
+			"globalBonuses" : [
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
 					"val" : 30,
@@ -37,13 +32,11 @@
 					"val" : 250,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				},
-			],
+				}
+			]
 		},
-		"rook":
-		{
-			"globalBonuses":
-			[
+		"rook" : {
+			"globalBonuses" : [
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
 					"val" : 39,
@@ -56,13 +49,11 @@
 					"val" : 325,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				},
-			],
+				}
+			]
 		},
-		"queen":
-		{
-			"globalBonuses":
-			[
+		"queen" : {
+			"globalBonuses" : [
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
 					"val" : 48,
@@ -75,13 +66,11 @@
 					"val" : 400,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				},
-			],
+				}
+			]
 		},
-		"king":
-		{
-			"globalBonuses":
-			[
+		"king" : {
+			"globalBonuses" : [
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
 					"val" : 60,
@@ -94,9 +83,8 @@
 					"val" : 500,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				},
-			],
+				}
+			]
 		}
 	}
 }
-

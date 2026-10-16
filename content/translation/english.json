@@ -1,0 +1,12 @@
+{
+	"mod.name" : "Boost AI",
+	"mod.description" : "Rebalances difficulty system, giving AI more advantages. Amount of these advantages depends on chosen difficulty level. Provides few options for boosting, you can control them by enabling/disabling submods.",
+	"mod.battle bonuses for ai.name" : "Battle bonuses for AI",
+	"mod.battle bonuses for ai.description" : "Gives advantage for AI player during battles with neutrals. Bonuses scale with selected game difficulty, and are greater on higher difficulty levels.",
+	"mod.global bonuses for ai.name" : "Global bonuses for AI",
+	"mod.global bonuses for ai.description" : "AI heroes generate gold bonuses and gain experience faster. Bonuses scale with selected game difficulty, and are greater on higher difficulty levels.",
+	"mod.neutral_stack_exp.name" : "Neutral stack experience",
+	"mod.neutral_stack_exp.description" : "Increases neutral stack experience gaining to 500xp per day compared to 100xp/day by default. This way fights with neutral mobs will be harder and more interesting because of additional bonuses.",
+	"mod.resourceful ai.name" : "Resourceful AI",
+	"mod.resourceful ai.description" : "Boost AI by giving extra starting resources. Bonuses scale with selected game difficulty, and are greater on higher difficulty levels."
+}

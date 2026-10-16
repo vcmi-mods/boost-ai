@@ -1,0 +1,12 @@
+{
+	"mod.name": "Zesílená AI",
+	"mod.description": "Přepracovává systém obtížnosti, čímž poskytuje AI více výhod. Nabízí několik možností pro zesílení, které můžete ovládat povolením nebo zakázáním jednotlivých submodů.",
+	"mod.battle bonuses for ai.name": "Bojové bonusy pro AI",
+	"mod.battle bonuses for ai.description": "Dává AI hráčům výhodu během bitev s neutrálními jednotkami. Bonusy se stupňují podle zvolené obtížnosti hry a jsou větší na vyšších úrovních obtížnosti.",
+	"mod.global bonuses for ai.name": "Globální bonusy pro AI",
+	"mod.global bonuses for ai.description": "Hrdinové AI generují zlato jako bonus a získávají zkušenosti rychleji. Bonusy se stupňují podle zvolené obtížnosti hry a jsou větší na vyšších úrovních obtížnosti.",
+	"mod.neutral_stack_exp.name": "Zkušenosti neutrálních jednotek",
+	"mod.neutral_stack_exp.description": "Zvyšuje denní zisk zkušeností neutrálních jednotek na 500 zkušeností denně oproti výchozím 100 zkušenostem. Tímto způsobem budou souboje s neutrálními nepřáteli obtížnější a zajímavější díky dalším bonusům.",
+	"mod.resourceful ai.name": "Zásobovaná AI",
+	"mod.resourceful ai.description": "Posiluje AI tím, že mu poskytuje dodatečné počáteční zdroje. Bonusy se stupňují podle vybrané obtížnosti hry a jsou větší na vyšších úrovních obtížnosti."
+}

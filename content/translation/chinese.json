@@ -1,0 +1,12 @@
+{
+	"mod.name": "增强型AI",
+	"mod.description": "调整难度系统，使AI获得更多优势。提供少量增强选项，你可以通过启用/禁用子模组来控制它们。（本mod由大颗米汉化）",
+	"mod.battle bonuses for ai.name": "给予AI战斗奖励",
+	"mod.battle bonuses for ai.description": "给予AI玩家在与中立单位战斗时的优势。奖励根据所选游戏难度的不同而有所变化，难度越高，奖励越大。",
+	"mod.global bonuses for ai.name": "AI全局奖励",
+	"mod.global bonuses for ai.description": " AI英雄会产生额外的金币奖励并更快地获得经验，同时AI城镇中的生物成长速度也会增加。奖励根据所选游戏难度的不同而有所变化，难度越高，奖励越大。",
+	"mod.neutral_stack_exp.name": "中立单位经验积累",
+	"mod.neutral_stack_exp.description": "与默认的每天100点经验相比，将中立生物群组的经验获取增加到每天500点经验。这样一来，由于额外的奖励，与中立生物的战斗将会变得更加困难和有趣。",
+	"mod.resourceful ai.name": "AI更多资源",
+	"mod.resourceful ai.description": "通过给予额外的初始资源来提升AI。奖励根据所选游戏难度的不同而有所变化，难度越高，奖励越大。"
+}

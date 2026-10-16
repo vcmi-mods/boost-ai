@@ -1,11 +1,8 @@
 //Configured difficulty
 {
-	"ai":
-	{
-		"pawn":
-		{
-			"battleBonuses": 
-			[
+	"ai" : {
+		"pawn" : {
+			"battleBonuses" : [
 				{
 					"type" : "STACK_HEALTH",
 					"val" : 40,
@@ -21,10 +18,8 @@
 				}
 			]
 		},
-		"knight":
-		{
-			"battleBonuses":
-			[
+		"knight" : {
+			"battleBonuses" : [
 				{
 					"type" : "STACK_HEALTH",
 					"val" : 65,
@@ -40,10 +35,8 @@
 				}
 			]
 		},
-		"rook":
-		{
-			"battleBonuses":
-			[
+		"rook" : {
+			"battleBonuses" : [
 				{
 					"type" : "STACK_HEALTH",
 					"val" : 100,
@@ -59,10 +52,8 @@
 				}
 			]
 		},
-		"queen":
-		{
-			"battleBonuses":
-			[
+		"queen" : {
+			"battleBonuses" : [
 				{
 					"type" : "STACK_HEALTH",
 					"val" : 150,
@@ -78,10 +69,8 @@
 				}
 			]
 		},
-		"king":
-		{
-			"battleBonuses":
-			[
+		"king" : {
+			"battleBonuses" : [
 				{
 					"type" : "STACK_HEALTH",
 					"val" : 200,
@@ -99,4 +88,3 @@
 		}
 	}
 }
-

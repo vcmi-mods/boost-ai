@@ -7,29 +7,48 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"modType" : "AI",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.6.0"
 	},
-	"changelog" :
-	{
-		"0.9"  : [ "Fix leftover creature growth boost on last difficulty" ],
-		"0.8"  : [ "Bump up boosts for fighting against neutral armies" ],
-		"0.7"  : [ "Remove obsolete submods (NKAI Experimental, map hero limits), remove creature growth boost - too unfair for this mod and may interfere with AI economy" ],
-		"0.6"  : [ "Chinese translation by rapsedwind" ],
-		"0.5"  : [ "Czech translation by George King" ],
-		"0.4"  : [ "Initial release" ]
+	"changelog" : {
+		"0.9" : [
+			"Fix leftover creature growth boost on last difficulty"
+		],
+		"0.8" : [
+			"Bump up boosts for fighting against neutral armies"
+		],
+		"0.7" : [
+			"Remove obsolete submods (NKAI Experimental, map hero limits), remove creature growth boost - too unfair for this mod and may interfere with AI economy"
+		],
+		"0.6" : [
+			"Chinese translation by rapsedwind"
+		],
+		"0.5" : [
+			"Czech translation by George King"
+		],
+		"0.4" : [
+			"Initial release"
+		]
 	},
-	"chinese": {
-		"name": "增强型AI",
-		"description": "调整难度系统，使AI获得更多优势。提供少量增强选项，你可以通过启用/禁用子模组来控制它们。（本mod由大颗米汉化）"
+	"chinese" : {
+		"name" : "增强型AI",
+		"description" : "调整难度系统，使AI获得更多优势。提供少量增强选项，你可以通过启用/禁用子模组来控制它们。（本mod由大颗米汉化）",
+		"translations" : [
+			"translation/chinese.json"
+		]
 	},
 	"czech" : {
 		"name" : "Zesílená AI",
-		"description" : "Přepracovává systém obtížnosti, čímž poskytuje AI více výhod. Nabízí několik možností pro zesílení, které můžete ovládat povolením nebo zakázáním jednotlivých submodů."
+		"description" : "Přepracovává systém obtížnosti, čímž poskytuje AI více výhod. Nabízí několik možností pro zesílení, které můžete ovládat povolením nebo zakázáním jednotlivých submodů.",
+		"translations" : [
+			"translation/czech.json"
+		]
 	},
 	"polish" : {
 		"name" : "Utrudnione AI",
-		"description" : "Rebalans poziomów trudności, dający AI dodatkowe premie. Wielkość premii jest uzależniona od wybranego poziomu trudności. Udostępnia kilka opcji utrudniania, możesz je kontrolować włączając/wyłączając submody"
+		"description" : "Rebalans poziomów trudności, dający AI dodatkowe premie. Wielkość premii jest uzależniona od wybranego poziomu trudności. Udostępnia kilka opcji utrudniania, możesz je kontrolować włączając/wyłączając submody",
+		"translations" : [
+			"translation/polish.json"
+		]
 	}
 }

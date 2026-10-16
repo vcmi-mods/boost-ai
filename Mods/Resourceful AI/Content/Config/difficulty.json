@@ -1,27 +1,65 @@
 //Configured difficulty
 {
-	"ai":
-	{
-		"pawn":
-		{
-			"resources": { "wood" : 32, "mercury": 16, "ore": 32, "sulfur": 16, "crystal": 16, "gems": 16, "gold": 16000, "mithril": 0 },
+	"ai" : {
+		"pawn" : {
+			"resources" : {
+				"wood" : 32,
+				"mercury" : 16,
+				"ore" : 32,
+				"sulfur" : 16,
+				"crystal" : 16,
+				"gems" : 16,
+				"gold" : 16000,
+				"mithril" : 0
+			}
 		},
-		"knight":
-		{
-			"resources": { "wood" : 40, "mercury": 20, "ore": 40, "sulfur": 20, "crystal": 20, "gems": 20, "gold": 20000, "mithril": 0 },
+		"knight" : {
+			"resources" : {
+				"wood" : 40,
+				"mercury" : 20,
+				"ore" : 40,
+				"sulfur" : 20,
+				"crystal" : 20,
+				"gems" : 20,
+				"gold" : 20000,
+				"mithril" : 0
+			}
 		},
-		"rook":
-		{
-			"resources": { "wood" : 52, "mercury": 26, "ore": 52, "sulfur": 26, "crystal": 26, "gems": 26, "gold": 26000, "mithril": 0 },
+		"rook" : {
+			"resources" : {
+				"wood" : 52,
+				"mercury" : 26,
+				"ore" : 52,
+				"sulfur" : 26,
+				"crystal" : 26,
+				"gems" : 26,
+				"gold" : 26000,
+				"mithril" : 0
+			}
 		},
-		"queen":
-		{
-			"resources": { "wood" : 64, "mercury": 32, "ore": 64, "sulfur": 32, "crystal": 32, "gems": 32, "gold": 32000, "mithril": 0 },
+		"queen" : {
+			"resources" : {
+				"wood" : 64,
+				"mercury" : 32,
+				"ore" : 64,
+				"sulfur" : 32,
+				"crystal" : 32,
+				"gems" : 32,
+				"gold" : 32000,
+				"mithril" : 0
+			}
 		},
-		"king":
-		{
-			"resources": { "wood" : 80, "mercury": 40, "ore": 80, "sulfur": 40, "crystal": 40, "gems": 40, "gold": 40000, "mithril": 0 },
+		"king" : {
+			"resources" : {
+				"wood" : 80,
+				"mercury" : 40,
+				"ore" : 80,
+				"sulfur" : 40,
+				"crystal" : 40,
+				"gems" : 40,
+				"gold" : 40000,
+				"mithril" : 0
+			}
 		}
-	},
+	}
 }
-
